@@ -18,7 +18,7 @@ const projects = [
             "This Instagram Clone includes secure login/signup, post and reel creation, likes, comments, bookmarks, and real-time notifications. Users can follow/unfollow, search profiles, and use a real-time chat system with reply, delete, and scheduled messages. Stories can be created, viewed, and deleted, while Gemini AI is integrated for smart post captions and AI chat features.",
         technologies: ["React", "Express", "Node.js", "MongoDb", "Socket.io"],
         sourceLink: "https://github.com/harsh15550/instagram_clone",
-        liveDemoLink: "instagram-frontend-mu.vercel.app",
+        liveDemoLink: "instagram-frontend-mu.vercel.app/",
     },
     {
         title: "Blog App",
