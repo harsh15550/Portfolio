@@ -10,7 +10,7 @@ const AboutMe = () => {
           Here's a little insight into my journey as a developer.
         </p>
         <p className="text-gray-700 text-md leading-relaxed md:text-lg">
-          I am a passionate and dedicated MERN Stack Developer with hands-on experience building full-stack web applications using MongoDB, Express.js, React, and Node.js. From crafting clean and responsive frontends with HTML, CSS, and JavaScript, to building efficient and scalable backends, I enjoy every part of the development process. <br /><br />
+          I am a passionate and dedicated MERN Stack Developer with hands-on experience building full-stack web applications using MongoDB, Express.js, React, and Node.js. From crafting clean and responsive frontends with HTML, CSS, and JavaScript, to building efficient and scalable backends, I enjoy every part of the development process.  — although I have not yet worked on responsive design projects.<br /><br />
           Along with my MERN expertise, I am currently learning Java to expand my backend development skills and deepen my understanding of computer science fundamentals. I'm always looking for ways to grow by solving real-world problems, exploring new tools and frameworks, and contributing to meaningful projects. My ultimate goal is to create impactful digital experiences that are not only functional but also intuitive and engaging for users.
         </p>
       </div>
