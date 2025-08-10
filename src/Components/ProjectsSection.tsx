@@ -68,7 +68,6 @@ const ProjectsSection = () => {
                                     </span>
                                 ))}
                             </div>
-                            {project.title != "Social Media Insta clone" && 
                             <div className="flex gap-3">
                                 <a
                                     href={project.sourceLink}
@@ -87,7 +86,7 @@ const ProjectsSection = () => {
                                     Live Demo
                                 </a>
                             </div>
-                            }
+                            
                         </div>
                     </div>
                 ))}
