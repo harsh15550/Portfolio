@@ -1,6 +1,5 @@
 import { FaDownload } from "react-icons/fa";
-import { HiArrowRight } from "react-icons/hi";
-import devloperImg from '../../public/WhatsApp Image 2024-07-28 at 11.23.47_fcd5ca11.jpg';
+import devloperImg from '/WhatsApp Image 2024-07-28 at 11.23.47_fcd5ca11.jpg';
 
 const HeroSection = () => {
   return (
