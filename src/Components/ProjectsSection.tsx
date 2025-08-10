@@ -1,4 +1,3 @@
-import React from "react";
 import Ecommerce from '../assets/E-commerce.png'
 import Instagram from '../assets/Instagram.png';
 import blog from '../assets/blog.png';
