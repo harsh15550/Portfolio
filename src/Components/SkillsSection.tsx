@@ -1,7 +1,7 @@
 
 const SkillsSection = () => {
     const coreTechnologies = [
-        'MERN Stack', 'React', 'Node.js', 'MongoDB', 'Express.js',
+        'React', 'Node.js', 'MongoDB', 'Express.js',
         'JavaScript', 'TypeScript', 'Java', 'Tailwind CSS',
         'Material-UI', 'Postman', 'Redux', 'Git', 'Socket.io'
     ];
