@@ -4,7 +4,7 @@ import devloperImg from '/WhatsApp Image 2024-07-28 at 11.23.47_fcd5ca11.jpg';
 const HeroSection = () => {
   return (
     <section id="home" className="flex scroll-mt-20 items-center justify-center px-6 md:px-24 bg-white pt-18 pb-10">
-      <div className="w-full max-w-7xl flex flex-col-reverse md:flex-row items-center justify-evenly gap-20">
+      <div className="w-full max-w-7xl flex flex-col-reverse md:flex-row items-center justify-evenly gap-10">
 
         {/* Left Content */}
         <div className="text-center md:text-left space-y-6 md:w-1/2">
@@ -34,7 +34,7 @@ const HeroSection = () => {
         </div>
 
         {/* Right Image */}
-        <div className="flex justify-center">
+        <div className="">
           <img
             src={devloperImg}
             alt="Harsh Patel"
