@@ -1,5 +1,6 @@
 import { FaDownload } from "react-icons/fa";
 import devloperImg from '/WhatsApp Image 2024-07-28 at 11.23.47_fcd5ca11.jpg';
+import resume from '../assets/Harsh Resume.pdf';
 
 const HeroSection = () => {
   return (
@@ -24,7 +25,7 @@ const HeroSection = () => {
           <div className="flex flex-col sm:flex-row items-center justify-center md:justify-start gap-4">
 
             <a
-              href="./public/Harsh Resume.pdf"
+              href={resume}
               download
               className="flex items-center gap-2 border border-purple-500 text-purple-600 px-6 py-2 rounded-md hover:bg-purple-50 transition"
             >
